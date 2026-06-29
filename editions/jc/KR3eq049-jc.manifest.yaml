@@ -1,0 +1,83 @@
+canonical_identifier: bkk:krp/KR3eq049/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq049/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 西溪書屋夜話錄
+  identifiers:
+    krp: KR3eq049
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq049.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq049_000-jc.yaml, hash: 'sha256:9b47e1ca12dacc62dc864dfac5692538880daa85c4d98c6ff7c3f537d66dcf62'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq049_000-jc.markers.yaml, hash: 'sha256:53cdfe4e77b7c392314309c7a3bde5910b6ab59eef7380ef49cce68fdf3f9009'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq049_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 54
+  label: 治肝卅法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq049_jc_000-d3.h1s1
+    span:
+    - body
+    - 54
+    - 435
+  label: 肝氣證治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq049_jc_000-d4.h1s1
+    span:
+    - body
+    - 435
+    - 815
+  label: 肝風證治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq049_jc_000-d5.h1s1
+    span:
+    - body
+    - 815
+    - 1082
+  label: 肝火證治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq049_jc_000-d6.h1s1
+    span:
+    - body
+    - 1082
+    - 1268
+  label: 肝寒肝虛等證治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq049_jc_000-d7.h1s1
+    span:
+    - body
+    - 1268
+    - 6129
+  label: 醫話
+  type: section
+  level: 1
+hash: sha256:de33856d07a0468d4b4ec4e6a666d2afd8a33c41a55d79ffc698bdc43b70254f
