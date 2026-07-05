@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq049_000.yaml, hash: 'sha256:521f270031487e04ff9c2e1fe502f551105f130b2788a4f6a67cf19c69cc4a15'}
+  - {seq: 0, filename: KR3eq049_000.yaml, hash: 'sha256:9b47e1ca12dacc62dc864dfac5692538880daa85c4d98c6ff7c3f537d66dcf62'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq049_000.markers.yaml, hash: 'sha256:63909d1fda39ebd11003e0033b068d9ba7560134215d92c139ad1633f8bc05cb'}
+  - {seq: 0, role: markers, filename: assets/KR3eq049_000.markers.yaml, hash: 'sha256:b6c9973697a3046d532a2b281473a1345e12d04e33fe9162b5bd3b8c3866830c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -80,7 +80,4 @@ table_of_contents:
   label: 醫話
   type: section
   level: 1
-hash: sha256:77cd11827fa7bb3332e254523e8054908b8ea350433acc6bd9ff121e1fd65fd5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1351ff5b5249f9d9f4758766e7b796b88eab0ad48b8f3c366d089d11f61541c5
